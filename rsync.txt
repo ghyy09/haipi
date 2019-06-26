@@ -1,2 +1,0 @@
-rsync -avzP -n 1/ 2/
-rsync -avzPr --delete -b --backup-dir=/root/temp/2019042701 1/ 2/
